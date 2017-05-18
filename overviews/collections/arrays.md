@@ -1,10 +1,7 @@
 ---
 layout: overview-large
 title: Arrays
-
 disqus: true
-includeCollectionTOC: true
-
 partof: collections
 num: 10
 languages: [ja, zh-cn]
