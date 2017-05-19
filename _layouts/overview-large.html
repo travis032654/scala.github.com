@@ -3,8 +3,14 @@ layout: inner-page-parent
 includeCollectionTOC: true
 ---
 
+{% for pg in site.posts %}
+  {% if pg.overview == page.overview and pg.languages %}
+    {% assign languages = pg.languages %}
+  {% endif %}
+{% endfor %}
+
 {% for pg in site.pages %}
-  {% if pg.partof == page.partof and pg.languages %}
+  {% if pg.overview == page.overview and pg.languages %}
     {% assign languages = pg.languages %}
   {% endif %}
 {% endfor %}
@@ -15,6 +21,18 @@ includeCollectionTOC: true
 {% else %}
   {% assign rootTutorialURL = page.url %}
 {% endif %}
+
+<div class="span6">
+  {% if languages %}
+  <ul class="langbar">
+    <li><a href="{{ site.baseurl }}{{ rootTutorialURL }}" class="lang">English</a></li>
+    {% for l in languages %}
+      {% assign lang = site.data.languages[l] %}
+      <li><a href="{{ site.baseurl }}/{{ l }}{{ rootTutorialURL }}" class="lang">{{lang.name}}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
 
 <!-- Main content -->
 {% include inner-page-main-content.html %}
