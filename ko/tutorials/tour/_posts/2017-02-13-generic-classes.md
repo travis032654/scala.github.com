@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 제네릭 클래스
 
 disqus: true

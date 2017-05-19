@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 합성 타입
 
 disqus: true

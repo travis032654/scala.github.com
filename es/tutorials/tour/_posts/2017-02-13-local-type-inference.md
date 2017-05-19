@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Inferencia de tipos Local
 
 disqus: true

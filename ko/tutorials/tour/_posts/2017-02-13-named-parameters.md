@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 이름을 지정한 파라미터
 
 disqus: true

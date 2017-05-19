@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Limitante Inferior de Tipos
 
 disqus: true

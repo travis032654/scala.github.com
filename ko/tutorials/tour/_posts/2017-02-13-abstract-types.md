@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 추상 타입
 
 disqus: true

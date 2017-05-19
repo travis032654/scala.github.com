@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 패턴 매칭
 
 disqus: true

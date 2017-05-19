@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 통합된 타입
 
 disqus: true

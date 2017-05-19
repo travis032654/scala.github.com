@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Generičke klase
 
 disqus: true

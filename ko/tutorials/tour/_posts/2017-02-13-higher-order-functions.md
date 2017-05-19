@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 고차 함수
 
 disqus: true

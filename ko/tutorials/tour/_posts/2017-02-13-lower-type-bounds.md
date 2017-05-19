@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 하위 타입 경계
 
 disqus: true

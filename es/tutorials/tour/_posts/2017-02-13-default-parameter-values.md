@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Valores de parámetros por defecto
 
 disqus: true

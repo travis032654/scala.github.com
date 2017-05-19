@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Tipos Abstractos
 
 disqus: true

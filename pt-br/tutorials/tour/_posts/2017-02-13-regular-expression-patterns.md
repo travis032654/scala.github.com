@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Padrões de Expressões Regulares
 
 disqus: true

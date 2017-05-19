@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 들어가며
 
 disqus: true

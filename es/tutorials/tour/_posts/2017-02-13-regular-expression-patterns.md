@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Patrones basados en expresiones regulares
 
 disqus: true

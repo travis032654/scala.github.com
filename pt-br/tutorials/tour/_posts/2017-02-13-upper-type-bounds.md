@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Limitante Superior de Tipos
 
 disqus: true

@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Lokalno zaključivanje tipova (type inference)
 
 disqus: true

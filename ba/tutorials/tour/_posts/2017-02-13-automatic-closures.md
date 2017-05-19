@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Automatska konstrukcija tipno zavisnih closura (zatvarajućih funkcija)
 
 disqus: true

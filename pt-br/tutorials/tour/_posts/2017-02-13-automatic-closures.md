@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Construção Automática de Closures de Tipo-Dependente
 
 disqus: true

@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Sintaxe de Função Anônima
 
 disqus: true

@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Funções de ordem superior
 
 disqus: true

@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Instrukcje for (For comprehension)
 
 disqus: true

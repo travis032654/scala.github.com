@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 시퀀스 컴프리헨션
 
 disqus: true

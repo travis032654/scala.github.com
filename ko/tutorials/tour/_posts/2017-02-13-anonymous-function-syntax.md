@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 익명 함수 구문
 
 disqus: true

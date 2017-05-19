@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 다형성 메소드
 
 disqus: true

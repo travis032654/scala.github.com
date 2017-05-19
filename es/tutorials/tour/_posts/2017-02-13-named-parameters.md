@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Parámetros nombrados
 
 disqus: true

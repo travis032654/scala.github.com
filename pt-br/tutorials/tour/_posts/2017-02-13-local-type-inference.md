@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Inferência de Tipo Local
 
 disqus: true

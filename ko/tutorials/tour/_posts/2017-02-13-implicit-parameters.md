@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 암시적 파라미터
  
 disqus: true

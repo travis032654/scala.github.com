@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Construcción de closures automáticas
 
 disqus: true

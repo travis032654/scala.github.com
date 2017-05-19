@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 어노테이션
 
 disqus: true

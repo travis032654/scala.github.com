@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 정규 표현식 패턴
 
 disqus: true

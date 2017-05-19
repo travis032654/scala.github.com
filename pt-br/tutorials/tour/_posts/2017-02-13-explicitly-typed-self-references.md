@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Auto Referências Explicitamente Tipadas
 
 disqus: true

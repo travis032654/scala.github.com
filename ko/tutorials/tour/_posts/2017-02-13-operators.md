@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 연산자
 
 disqus: true

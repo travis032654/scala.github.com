@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 로컬 타입 추론
 
 disqus: true

@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Gornja granica tipa
 
 disqus: true

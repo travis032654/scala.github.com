@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 믹스인 클래스 컴포지션
 
 disqus: true

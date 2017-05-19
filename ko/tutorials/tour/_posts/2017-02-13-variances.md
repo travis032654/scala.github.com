@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 가변성
 
 disqus: true

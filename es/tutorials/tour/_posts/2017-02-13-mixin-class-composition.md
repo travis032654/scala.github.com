@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Composición de clases mixin
 
 disqus: true

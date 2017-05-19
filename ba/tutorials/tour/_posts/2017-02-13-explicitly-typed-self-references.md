@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Eksplicitno tipizirane samo-reference
 
 disqus: true

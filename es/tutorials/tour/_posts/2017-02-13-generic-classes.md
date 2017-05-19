@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Clases genéricas
 
 disqus: true

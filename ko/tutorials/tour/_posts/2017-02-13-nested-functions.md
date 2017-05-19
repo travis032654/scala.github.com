@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 중첩 함수
 
 disqus: true

@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 싱글톤 객체
 
 disqus: true

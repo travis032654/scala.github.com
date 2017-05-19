@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: 내부 클래스
 
 disqus: true

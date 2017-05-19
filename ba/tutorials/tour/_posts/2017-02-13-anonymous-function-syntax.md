@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Sintaksa anonimnih funkcija
 
 disqus: true

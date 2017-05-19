@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Podrazumijevane vrijednosti parametara
 
 disqus: true

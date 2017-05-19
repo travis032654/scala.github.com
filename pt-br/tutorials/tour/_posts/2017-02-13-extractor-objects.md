@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Objetos Extratores
 
 disqus: true

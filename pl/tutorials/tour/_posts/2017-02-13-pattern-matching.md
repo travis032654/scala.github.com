@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: overview-large
 title: Dopasowanie wzorców (Pattern matching)
 
 disqus: true
