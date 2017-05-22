@@ -1,5 +1,5 @@
 ---
-layout: overview
+layout: overview-large
 title: Implicit Classes
 overview: implicit-classes
 label-color: success

@@ -1,5 +1,5 @@
 ---
-layout: overview
+layout: overview-large
 title: String Interpolation
 disqus: true
 label-color: success

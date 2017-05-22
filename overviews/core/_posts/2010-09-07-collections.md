@@ -1,5 +1,5 @@
 ---
-layout: overview
+layout: overview-large
 title: Scala's Collections Library
 disqus: true
 partof: collections

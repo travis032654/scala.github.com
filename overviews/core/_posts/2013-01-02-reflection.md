@@ -1,5 +1,5 @@
 ---
-layout: overview
+layout: overview-large
 title: Reflection
 disqus: true
 partof: reflection

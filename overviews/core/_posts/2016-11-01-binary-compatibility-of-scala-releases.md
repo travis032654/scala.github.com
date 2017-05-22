@@ -1,5 +1,5 @@
 ---
-layout: overview
+layout: overview-large
 title: Binary Compatibility of Scala Releases
 overview: binary-compatibility-of-scala-releases
 ---

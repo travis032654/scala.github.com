@@ -1,5 +1,5 @@
 ---
-layout: overview
+layout: overview-large
 title: Value Classes and Universal Traits
 label-color: success
 label-text: New in 2.10

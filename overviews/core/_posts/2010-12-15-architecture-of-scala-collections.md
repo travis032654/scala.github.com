@@ -1,5 +1,5 @@
 ---
-layout: overview
+layout: overview-large
 title: The Architecture of Scala Collections
 overview: architecture-of-scala-collections
 languages: [zh-cn]
