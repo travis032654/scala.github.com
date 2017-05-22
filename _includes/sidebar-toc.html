@@ -1,9 +1,9 @@
-{% if page.includeTOC %}
+{% if page.includeTOC or layout.includeTOC %}
 <div class="content-nav">
 	<div class="inner-box sidebar-toc-wrapper" style="">
 		<h5>Contents</h5>
 		<div class="inner-toc" id="sidebar-toc">
-      {% if page.includeCollectionTOC %}
+      {% if page.includeCollectionTOC or layout.includeCollectionTOC %}
 
         {% for pg in site.pages %}
           {% if pg.partof == page.partof and pg.outof %}
